@@ -1,4 +1,3 @@
-![AudiobooksHQ SS](https://user-images.githubusercontent.com/81996756/113783253-53f3d580-96e8-11eb-9b9a-3b7c2774ec20.PNG)
 # Assignment 01: Heuristic Evaluation
 ## DH 110, Laudan Hosseini
 This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbucks". Here, we will go through all 10 heuristics and determine whether they are done effectively for each application. 
@@ -28,4 +27,4 @@ https://www.starbucks.com/
 
 https://www.audiobookshq.com/
 
-![](./images/AudiobooksHQSS.PNG)
+![AudiobooksHQ SS](https://user-images.githubusercontent.com/81996756/113783253-53f3d580-96e8-11eb-9b9a-3b7c2774ec20.PNG)
