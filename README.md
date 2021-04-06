@@ -7,5 +7,5 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 ![](StarbucksSS.PNG) 
 
 | Heuristics | Comments | Severity Rating | Improvements | 
-| ---------- | -------- | --------------- | 
+| ---------- | -------- | --------------- | ------------ |
 
