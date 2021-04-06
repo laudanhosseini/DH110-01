@@ -27,4 +27,4 @@ https://www.starbucks.com/
 
 https://www.audiobookshq.com/
 
-![AudiobooksHQ SS](./images/AudiobooksHQSS.PNG)
+[AudiobooksHQ SS](./images/AudiobooksHQSS.PNG)
