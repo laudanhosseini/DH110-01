@@ -6,7 +6,7 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 
 https://www.starbucks.com/ 
 
-![](StarbucksSS.PNG) 
+![StarbucksSS](images/StarbucksSS.PNG) 
 
 | Heuristics | Comments | Severity Rating | Improvements | 
 | ---------- | -------- | --------------- | ------------ |
