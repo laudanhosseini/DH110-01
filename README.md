@@ -5,3 +5,7 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 ## App 1: Starbucks 
 
 ![](StarbucksSS.PNG) 
+
+| Heuristics | Comments | Severity Rating | 
+ _________________________________________
+| 01: Visibility | 
