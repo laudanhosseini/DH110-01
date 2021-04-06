@@ -2,7 +2,9 @@
 ## DH 110, Laudan Hosseini
 This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbucks". Here, we will go through all 10 heuristics and determine whether they are done effectively for each application. 
 
-## App 1: Starbucks 
+## App 01: Starbucks 
+
+https://www.starbucks.com/ 
 
 ![](StarbucksSS.PNG) 
 
@@ -19,4 +21,9 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 | 09: Help users recognize, diagnose, and recover from errors | Bad: Incorrectly informs users of errors with drinks; for instance, it warns the user that a particular drink is sold out at a store when it may actually not be. Also does not warn the user of another store where the drink can be bought if it is sold out. | 3 | It would be very important to fix this aspect of the app so that users can get the more accurate information on orders. This can be done by having more efficient algorithms to detect if things are really sold out or not. |
 | 10: Help and Documentation | Good: There is a "Help" tab under settings with a search bar. Bad: No FAQ section, help bar does not provide great help (oftentimes, searching things up leads to no articles found). | 2 | It would be important to update the accuracy of the help search bar so that users can get more accurate instructions. Including a FAQ section could also help users find the answers faster. |
 
+
+
+## App 02: AudioBooks HQ
+
+https://www.audiobookshq.com/
 
