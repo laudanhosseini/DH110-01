@@ -8,4 +8,4 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 
 | Heuristics | Comments | Severity Rating | Improvements | 
 | ---------- | -------- | --------------- | 
-| 01: Visibility of System Status |
+
