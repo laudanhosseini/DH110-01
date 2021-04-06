@@ -8,4 +8,6 @@ This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbuc
 
 | Heuristics | Comments | Severity Rating | 
 | ---------- | -------- | --------------- | 
-| 01: Visibility |  
+| 01: Visibility | Bad: Doesn't update us on our order after placing it and oftentime gives the wrong time estimates on when orders will be ready. |  2 | 
+| 02: Match between system and real world | Good: Uses a lot of symbols that correspond to its meaning; for example, using coffee cup as the "order" tab, using a home for the "home" tab, using a QR code symbol as the "scan" tab. | N/A |
+| 03: User control and freedom | Bad: 
