@@ -28,3 +28,10 @@ https://www.starbucks.com/
 https://www.audiobookshq.com/
 
 ![AudiobooksHQ SS](https://user-images.githubusercontent.com/81996756/113783253-53f3d580-96e8-11eb-9b9a-3b7c2774ec20.PNG)
+
+| Heuristics | Comments | Severity Rating | Improvements | 
+| ---------- | -------- | --------------- | ------------ |
+| 01: Visibility of System Status | Bad: Doesn't have a loading button and doesn't show upload percentages when downloading text. | 2 | Can be clearler on keeping the user up to date on how much the document has uploaded, maybe by also including "time remaining" stamps. |
+| 02: Match between system and the real world | Bad: Does not define what the "moon" symbol means; this was very confusing as a user when trying to listen to the text. Also does not explain the difference between the two bookmark signals until you click on them. The speed symbol is also hard to read. Good: Other symbols used relate to the meaning, such as the home symbol, tablet symbol, and settings symbol. | 3 | Some of the symbols are too confusing and impair the readability + navigation for the user. | 
+| 03: User control and Freedom | 
+
