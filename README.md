@@ -1,10 +1,12 @@
 # Assignment 01: Heuristic Evaluation
 ## DH 110, Laudan Hosseini
-This project is a heuristic evaluation for the apps "Audiobooks HQ" and "Starbucks". Here, we will go through all 10 heuristics and determine whether they are done effectively for each application. 
+For this project, I wanted to choose applications that revolve around some of the most common daily activities, such as drinking coffee and reading books. Oftentimes, the websites and applications for these activities are marketed towards younger audiences, so I thought it would be an interesting project to take a look and see how these apps can be improved in its clarity and efficiency for older audiences as well. I decided to choose the apps Starbucks and Audiobooks HQ. 
 
 ## App 01: Starbucks 
 
 https://www.starbucks.com/ 
+
+This app is for 
 
 ![StarbucksSS](images/StarbucksSS.PNG) 
 
