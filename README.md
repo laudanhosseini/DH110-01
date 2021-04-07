@@ -1,12 +1,12 @@
-# Assignment 01: Heuristic Evaluation
-## DH 110, Laudan Hosseini
-For this project, I wanted to choose applications that revolve around some of the most common daily activities, such as drinking coffee and reading books. Oftentimes, the websites and applications for these activities are marketed towards younger audiences, so I thought it would be an interesting project to take a look and see how these apps can be improved in its clarity and efficiency for older audiences as well. I decided to choose the apps Starbucks and Audiobooks HQ. 
+# Making Common Consumerism More Accessible for Older Generations
+## Laudan Hosseini - Digital Humanities 110
+For this project, I wanted to choose applications that revolve around some of the most common daily activities, such as drinking coffee and reading books. Oftentimes, the websites and applications for these activities are marketed towards younger audiences, so I thought it would be an interesting project to take a look and see how these apps can be improved in its clarity and efficiency for older audiences as well. Just like with accessibility for all races, genders, sexualities, and socioeconomic statuses, accessibility for different age groups should be considered as well (but is unfortunately overlooked for many new and upcoming marketing strategies). I decided to choose the apps Starbucks and Audiobooks HQ because it relates to some very essential daily tasks, and there were surely some usability issues noted when doing a quick preview. With this, I hope to develop my project by utilizing UX design principles and skills to create and transform applications into something that can be user-friendly towards all age groups. 
 
 ## App 01: Starbucks 
 
 https://www.starbucks.com/ 
 
-This app is for 
+This app is for making mobile orders, adding paymemts, adding up points for the rewards programs, tracking previous orders, and anything related to Starbucks purchases in general. This app was designed to have Starbucks consumers congregate all of their data into one place and to make it easier and faster to order ahead of time or scan their giftcards/credit cards through the app. When analyzing each of the heuristics, I found that there was a lot of unnecessary information included that can clutter the homepage and make it harder for users to navigate. I also found that there were some slight inaccuracies with updating order information and mapping Starbucks locations, which would definitely make it more difficult for users to order. Overall, while there were a lot of nifty features and a strong aesthetic throughout this app, the updates on order info and overwhelming inclusion of irrelevant details can surely be improved. 
 
 ![StarbucksSS](images/StarbucksSS.PNG) 
 
@@ -28,6 +28,8 @@ This app is for
 ## App 02: AudioBooks HQ
 
 https://www.audiobookshq.com/
+
+This app is designed to allow users to download and purchase a wide variety of literature and have it read to them. This app is especially suitable for older audiences because reading can place a lot of strain on the eyes or be a tiring activity. The app then separates your collection of books based on title, author, and recent purchases. When analyzing the heuristics, I found that this app can improve quite a bit in its aesthetics, error prevention, and visibility. There was a lack of warning to users when confirming purchases, deleting or changing one's own book collection, and when downloads would fail. The bright orange color scheme and unpleasing font can also be refined to create a more calming atmosphere for users. Overall, while this app prevailed in its simple features, it can definitely be enhanced with the inclusion of more nifty details. 
 
 ![AudiobooksHQ SS](https://user-images.githubusercontent.com/81996756/113783253-53f3d580-96e8-11eb-9b9a-3b7c2774ec20.PNG)
 
